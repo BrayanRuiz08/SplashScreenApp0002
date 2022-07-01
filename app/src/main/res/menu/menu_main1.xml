@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/cartt"
+        android:icon="@drawable/ic_baseline_shopping_cart_24"
+        android:title="Carritoo"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/corazon_borde"
+        android:icon="@drawable/ic_baseline_favorite_border_24"
+        android:title="Favorito"
+        app:showAsAction="always"/>
+
+</menu>
